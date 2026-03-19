@@ -1,1 +1,172 @@
-{}
+{
+    "messenger": {
+        "app_version": "537.0.0.52.109",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773904589935,
+        "date_patched": "2026-03-19 07:16:29.935386+05:30",
+        "app_dump": {
+            "app_name": "messenger",
+            "app_version": "537.0.0.52.109",
+            "experiment": true,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/ReVanced/revanced-patches/releases/v5.47.0"
+            ],
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/v5.47.0",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [
+                "arm64-v8a"
+            ],
+            "options_file": "options.json",
+            "download_file_name": "messenger.apk",
+            "download_dl": "https://www.dropbox.com/scl/fi/jxbieecgeh7zlnwn0m0c8/com.facebook.orca_537.0.0.52.109-337415638_minAPI28-arm64-v8a-nodpi-_apkmirror.com.apk?rlkey=ryybyke280paotxl039gawdkm&st=ifjpz50r&dl=1",
+            "download_source": "",
+            "package_name": "com.facebook.orca",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    },
+    "facebook": {
+        "app_version": "490.0.0.63.82",
+        "patches_versions": [
+            "v6.1.0"
+        ],
+        "cli_version": "v6.0.0",
+        "ms_epoch_since_patched": 1773904590628,
+        "date_patched": "2026-03-19 07:16:30.627935+05:30",
+        "app_dump": {
+            "app_name": "facebook",
+            "app_version": "490.0.0.63.82",
+            "experiment": true,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/ReVanced/revanced-patches/releases/v5.47.0"
+            ],
+            "patches_dl": "https://github.com/ReVanced/revanced-patches/releases/v5.47.0",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "5dbb489a814e464aae79411a957343d1c555d1d7a984ee5f96c07d3261a23c28.jar",
+                    "version": "v6.0.0"
+                },
+                "patches": {
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "d95129ed1b714c32c55a92eed7de0c77754b30809c59ea6fd01ba48fb8fc781d.rvp",
+                    "version": "v6.1.0"
+                }
+            ],
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [
+                "arm64-v8a"
+            ],
+            "options_file": "options.json",
+            "download_file_name": "facebook.apk",
+            "download_dl": "https://www.dropbox.com/scl/fi/453tunllfbdbdd7vk9ugb/com.facebook.katana_490.0.0.63.82-457020012_minAPI30-arm64-v8a-nodpi-_apkmirror.com.apk?rlkey=qg5o9hcghtrrcfmacnxzs0psb&st=kkahwmod&dl=1",
+            "download_source": "",
+            "package_name": "com.facebook.katana",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "--descriptions",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "--index",
+                "OPTIONS": "--options",
+                "PACKAGES": "--packages",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "UNIVERSAL": "--universal-patches",
+                "VERSIONS": "--versions"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "-b",
+                "PURGE": "--purge",
+                "RIP_LIB": "",
+                "STRIPLIBS": ""
+            }
+        }
+    }
+}

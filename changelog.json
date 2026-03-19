@@ -1,1 +1,20 @@
-{}
+{
+    "REAndroid/APKEditor": {
+        "ResourceName": "[REAndroid/APKEditor](https://github.com/REAndroid/APKEditor/releases/tag/V1.4.7)",
+        "Version": "V1.4.7",
+        "Changelog": "## What's Changed\r\n* Set smali comment level to `basic` (For faster smali deompiling):https://github.com/REAndroid/APKEditor/commit/a5390a3401153ab9ac38b4487a279316eee7400d\r\n* Fix: Protector - dictionaries options by @Kirlif in https://github.com/REAndroid/APKEditor/pull/218\r\n\r\n\r\n**Full Changelog**: https://github.com/REAndroid/APKEditor/compare/V1.4.6...V1.4.7",
+        "PublishedOn": "2025-12-28T11:00:45Z"
+    },
+    "revanced/revanced-cli": {
+        "ResourceName": "[revanced/revanced-cli](https://github.com/ReVanced/revanced-cli/releases/tag/v6.0.0)",
+        "Version": "v6.0.0",
+        "Changelog": "# [6.0.0](https://github.com/ReVanced/revanced-cli/compare/v5.0.1...v6.0.0) (2026-03-14)\n\n\n* build(Needs bump)!: Update to ReVanced Patcher v22 ([#385](https://github.com/ReVanced/revanced-cli/issues/385)) ([30f36ee](https://github.com/ReVanced/revanced-cli/commit/30f36ee270d4b63b69bf7949c7968f2827c395ce))\n\n\n### Bug Fixes\n\n* Do not print patch description if null ([bba90fe](https://github.com/ReVanced/revanced-cli/commit/bba90fede85e4632efb9509e5bcf9091a9435549))\n* Group `mount` and `install` options into an argument group  ([#364](https://github.com/ReVanced/revanced-cli/issues/364)) ([0c53a2d](https://github.com/ReVanced/revanced-cli/commit/0c53a2d1d75d3d934d134594751fe6cd0b000d1a))\n\n\n### Features\n\n* Add signature and build provenance verification ([f481462](https://github.com/ReVanced/revanced-cli/commit/f481462ccf2eb55d1f964c0f3934bf2b29f4b0ef))\n\n\n### BREAKING CHANGES\n\n* ReVanced CLI switches to ReVanced Patcher v22 and will therefore be incompatible with patches from older versions of ReVanced Patcher.\n\n\n\n",
+        "PublishedOn": "2026-03-14T23:08:12Z"
+    },
+    "ReVanced/revanced-patches": {
+        "ResourceName": "[ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)",
+        "Version": "v6.1.0",
+        "Changelog": "# [6.1.0](https://github.com/ReVanced/revanced-patches/compare/v6.0.1...v6.1.0) (2026-03-18)\n\n\n### Bug Fixes\n\n* **Export internal data documents provider:** Correct S_IFLNK constant and symlink detection mask ([#6819](https://github.com/ReVanced/revanced-patches/issues/6819)) ([252617b](https://github.com/ReVanced/revanced-patches/commit/252617b8dd3f24e1ff9a04ba1d91b43dc29bd757))\n* **YouTube - Custom branding:** Fix double icons and change default branding to ReVanced ([#6806](https://github.com/ReVanced/revanced-patches/issues/6806)) ([e51c529](https://github.com/ReVanced/revanced-patches/commit/e51c5292c171325e7cfa0f5ee85474d9b3961a34))\n\n\n### Features\n\n* Add `Spoof root of trust` and `Spoof keystore security level` patch ([#6751](https://github.com/ReVanced/revanced-patches/issues/6751)) ([4bc8c7c](https://github.com/ReVanced/revanced-patches/commit/4bc8c7c0f60a095533f07dc281f0320f8eb22f3c))\n* **Announcements:** Support ReVanced API v5 announcements ([a05386e](https://github.com/ReVanced/revanced-patches/commit/a05386e8bc24c085b5c74f3674c402c5dd5ad468))\n* Change contact email in patches about ([df1c3a4](https://github.com/ReVanced/revanced-patches/commit/df1c3a4a70fd2595d77b539299f1f7301bc60d24))\n* **Instagram:** Add `Enable location sticker redesign` patch ([#6808](https://github.com/ReVanced/revanced-patches/issues/6808)) ([4b699da](https://github.com/ReVanced/revanced-patches/commit/4b699da220e5d1527c390792b6228e2d9cffedb7))\n* **Spoof video streams:** Add Android Reel client to fix playback issues ([#6830](https://github.com/ReVanced/revanced-patches/issues/6830)) ([4b6c3e3](https://github.com/ReVanced/revanced-patches/commit/4b6c3e312328fbf6a1c7065e27d8ff04573e58be))\n\n\n\n",
+        "PublishedOn": "2026-03-18T15:56:21Z"
+    }
+}
